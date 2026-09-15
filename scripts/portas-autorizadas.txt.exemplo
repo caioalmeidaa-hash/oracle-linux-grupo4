@@ -1,0 +1,6 @@
+# Lista de portas autorizadas para o net-hardening.sh
+# Formato: porta/protocolo   # comentário opcional
+# Ajustem para o que o servidor de vocês realmente precisa expor.
+
+2222/tcp   # SSH endurecido (porta não padrão)
+53/udp     # se usarem resolver local, senão removam
