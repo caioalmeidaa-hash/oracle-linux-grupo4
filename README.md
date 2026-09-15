@@ -1,6 +1,6 @@
 # CP 02 — Ambiente Linux (RHEL) — Grupo 4 — Oracle Linux
 
-Trabalho da disciplina de Segurança/Linux (FIAP). O Grupo 4 ficou responsável pela distribuição **Oracle Linux**, com instalação segura (LVM sobre LUKS + SELinux), serviço SSH endurecido e script de hardening de rede.
+Trabalho do Bruxo. O Grupo 4 ficou responsável pela distribuição **Oracle Linux**, com instalação segura (LVM sobre LUKS + SELinux), serviço SSH endurecido e script de hardening de rede.
 
 ## Status
 
